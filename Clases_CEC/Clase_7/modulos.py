@@ -35,5 +35,3 @@ for i in range(100):
     t.fd(steps)
 
 t.screen.mainloop()
-t.screen.title('Object-oriented turtle demo')
-t.screen.bgcolor("orange")
